@@ -1,0 +1,9 @@
+﻿  file_system.cpp
+c:\users\erick nisbeth\source\repos\estructurall\proyectotest2.1\file_system.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\erick nisbeth\source\repos\estructurall\proyectotest2.1\file_system.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\erick nisbeth\source\repos\estructurall\proyectotest2.1\file_system.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\erick nisbeth\source\repos\estructurall\proyectotest2.1\file_system.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\erick nisbeth\source\repos\estructurall\proyectotest2.1\file_system.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\erick nisbeth\source\repos\estructurall\proyectotest2.1\file_system.cpp(481): warning C4018: '<': signed/unsigned mismatch
+c:\users\erick nisbeth\source\repos\estructurall\proyectotest2.1\file_system.cpp(500): warning C4018: '<': signed/unsigned mismatch
+c:\users\erick nisbeth\source\repos\estructurall\proyectotest2.1\file_system.cpp(474): error C4716: 'FileSystem::exportFile': must return a value
